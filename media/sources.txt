@@ -1,0 +1,14 @@
+fromReddit.png : 
+https://www.reddit.com/r/Minecraft/comments/dcrnf/this_is_what_happened_when_i_left_minecraft_open/
+
+smpScreen.png :
+https://forums.penny-arcade.com/discussion/138790/minecraft-oh-god-what-have-we-created
+
+smp-a101_01-cave.png :
+https://minecraft.wonderhowto.com/news/minecraft-worlds-ultimate-survival-guide-part-4-0132382/
+
+smp-a120-chunk.png :
+https://thirstymag.com/Some-fun-cool-and-crazy-pictures-image-Minecraft-IndieDB-619794.html
+
+others :
+lost in time or delete :/
